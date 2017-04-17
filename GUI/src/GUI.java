@@ -152,7 +152,7 @@ public class GUI extends javax.swing.JFrame {
     }//GEN-LAST:event_btnAbrirActionPerformed
 
     private void btnGuardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarActionPerformed
-        guardarArchivo();
+        guardarArchivo();//los archivos se guardaran automaticamente con el .jada
     }//GEN-LAST:event_btnGuardarActionPerformed
 
     private void guardarArchivo() {
